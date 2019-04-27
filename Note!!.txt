@@ -1,0 +1,6 @@
+Inorder to access the database in your laptop,
+please copy the given 'MSA.sqlite' into the created location:-
+
+C:\\Users\\chandan ritvik\\Documents\\MSA.sqlite
+
+I have also removed the sqlite-jdbc-3.21.0   in order to match the size requirements of 5MB
